@@ -2,7 +2,7 @@
   "name": "pp-test-widget",
   "version": "1.0.1",
   "description": "A Vue.js project",
-  "author": "Alexander Duka <alexander.duka@namecheap.com>",
+  "author": "Alex Pletenetskiy <alex.pletenetskiy@namecheap.com>",
   "private": true,
   "scripts": {
     "dev": "webpack-dev-server --inline --progress --host 0.0.0.0 --config build/webpack.dev.conf.js",
